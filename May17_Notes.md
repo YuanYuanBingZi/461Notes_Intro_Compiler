@@ -25,7 +25,7 @@
 
 ## 3. 变量的生存空间Liveness Range 重叠带来的干扰问题
 
-![截屏2024-05-22 上午10.34.13](/Users/tong/Desktop/截屏2024-05-22 上午10.34.13.png)
+<img src="./May17_Notes.assets/%E6%88%AA%E5%B1%8F2024-05-22%20%E4%B8%8A%E5%8D%8810.34.13.png" alt="截屏2024-05-22 上午10.34.13" style="zoom:50%;" />
 
 1. 在本页ppt中，两个变量t0和t1的liveness range有重叠，因此他们在同一时间都需要寄存器，无法共享寄存器。
 2. 生存空间(liveness): 指一个变量从定义到最后一次使用的代码区间。
@@ -43,6 +43,6 @@
 
 3. 例子1: 用3种颜色color the graph
 
-   <img src="./May17_Notes.assets/%E6%88%AA%E5%B1%8F2024-05-22%20%E4%B8%8A%E5%8D%8810.40.38.png" style="zoom:50%;" />
+   <img src="./May17_Notes.assets/%E6%88%AA%E5%B1%8F2024-05-22%20%E4%B8%8A%E5%8D%8811.03.55.png" style="zoom:50%;" />
 
 4. 例子2: 同样的图，如果我们只能用两种颜色呢？
