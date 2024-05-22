@@ -43,6 +43,6 @@
 
 3. 例子1: 用3种颜色color the graph
 
-   <img src="/Users/tong/Library/Application Support/typora-user-images/截屏2024-05-22 上午10.47.20.png" alt="截屏2024-05-22 上午10.47.20" style="zoom:50%;" />
+   <img src="./May17_Notes.assets/%E6%88%AA%E5%B1%8F2024-05-22%20%E4%B8%8A%E5%8D%8810.40.38.png" style="zoom:50%;" />
 
 4. 例子2: 同样的图，如果我们只能用两种颜色呢？
